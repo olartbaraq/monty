@@ -50,7 +50,6 @@ typedef struct glo_s
   char **bigb;
   int node_data;
 } glo_t;
-extern glo_t glo;
 
 char **parse_line();
 
